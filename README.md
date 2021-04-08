@@ -24,18 +24,6 @@ This is the place where I make stuff and break things :rofl:
 - Firebase
 - Git
 
-<!--
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [The minimal server setup guide.](https://dev.to/uddeshjain/the-minimal-server-setup-guide-41on)
-- [Getting familiar with Objects.](https://dev.to/uddeshjain/getting-familiar-with-objects-9j1)
-- [Going serverless with firebase cloud functions.](https://dev.to/uddeshjain/going-serverless-with-firebase-cloud-functions-3m6h)
-- [Pagination in React.](https://dev.to/uddeshjain/pagination-in-react-1dc7)
-- [Pulling the first Docker image and a few essential commands.](https://dev.to/uddeshjain/pulling-the-first-docker-image-and-a-few-essential-commands-58cf)
-<!-- BLOG-POST-LIST:END -->
--->
-
 📊 **My Work**
 
 <!--
